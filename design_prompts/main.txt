@@ -1,0 +1,54 @@
+Design a premium mobile music-practice app UI called “ChordFlow” for iPhone and Android.
+
+The app helps musicians create, edit, practice, and export songs with lyrics, chords, guitar tabs, piano notes, and instrumental arrangements.
+
+Show a polished multi-screen mobile product presentation with these screens:
+1. Library screen with saved songs, search, and filters
+2. Create Song screen with a clear first choice between “With lyrics” and “Instrumental”
+3. Song Viewer screen with switchable views: Lyrics, Lyrics + Chords, Guitar, Piano, Notes, Practice
+4. Display/filter bottom sheet with toggles for lyrics, chords, tabs, piano notes, diagrams, timestamps, and section labels
+5. Song Editor screen with editable lyrics and chord placement above the words
+6. Practice screen with auto-scrolling lyrics and chords, speed slider, start/pause controls, and current line highlighting
+7. Guitar chord popup in a bottom sheet with a clean fretboard diagram
+8. Piano chord popup in a bottom sheet with highlighted keyboard notes
+9. PDF export screen that exports according to the currently selected view
+
+Visual direction:
+- premium, elegant, calm, musician-focused
+- dark mode primary presentation
+- subtle light mode secondary accents
+- clean editorial typography
+- strong visual hierarchy
+- soft shadows, refined spacing, smooth sheet overlays
+- high readability during practice mode
+- no generic neon SaaS look
+- no purple-blue AI gradients
+- no playful cartoon style
+- no cluttered streaming-app aesthetic
+
+Color palette:
+- charcoal black
+- warm off-black
+- soft ivory text
+- muted teal or muted gold accent
+- restrained color use
+- high contrast and accessibility-first readability
+
+UI details:
+- realistic chord-over-lyrics layout
+- segmented controls for view switching
+- compact filter chips
+- bottom navigation or clean top navigation depending on screen
+- large touch-friendly targets
+- elegant cards and list rows
+- one-handed usability
+- realistic music notation density without looking crowded
+
+Composition:
+- show 6 to 8 phones in one premium showcase
+- front-facing phones with slight perspective
+- clean neutral studio background
+- focus on the app UI only
+- crisp readable interface details
+- premium product presentation
+- 16:9 aspect ratio

@@ -1,0 +1,13 @@
+Suggested split:
+
+Subagent 1: project architecture, navigation, shared types, storage.
+
+Subagent 2: Song Viewer, filters, layout system, chord-over-lyrics rendering.
+
+Subagent 3: Song Editor, undo/redo, chord and note editing.
+
+Subagent 4: Practice mode, autoscroll, playback-state UI.
+
+Subagent 5: export pipeline, HTML print templates, PDF generation.
+
+Subagent 6: AI integration interfaces, mock services, microphone/listen pipeline placeholders.
